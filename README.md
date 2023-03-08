@@ -16,6 +16,7 @@ To run this script, you need to have the following tools installed:
 -   `toilet`
 -   `figlet`
 -   `wig`
+-   `nmap`
 -   `jq`
 
 ## Usage
@@ -75,7 +76,7 @@ chmod +x auto-rec0n.sh
  - [ ] theHarvester
  - [ ] adding much more soon!!
 
-🤝 **Contributing**
+## 🤝 **Contributing**
 
 Contributions to Auto-recon are welcome and encouraged! If you would like to contribute, please follow these steps:
 
