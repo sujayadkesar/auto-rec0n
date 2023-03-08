@@ -8,20 +8,20 @@
 
 
 ``` 
- git clone https://github.com/sujayadkesar/Auto-recon.git
+ git clone https://github.com/sujayadkesar/auto-rec0n.git
  ```
 ``` 
-cd Auto-recon
+cd auto-rec0n
 ```
 ``` 
-chmod +x auto-recon.sh 
+chmod +x auto-rec0n.sh 
 ```
 ``` 
-./auto-recon.sh 
+./auto-rec0n.sh 
 ```
 > **Note** : To access this tool from any directory  
 > ```
->  ln -sf <complete path to auto-recon.sh> /usr/local/bin/auto-recon
+>  ln -sf <complete path to auto-rec0n.sh> /usr/local/bin/auto-recon
 >  ```
 
 ``` bash
